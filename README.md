@@ -85,7 +85,7 @@ round_G - round G funding
 
 round_H - round H funding
 
-To view the code please click here
+To view the code please click [here](https://github.com/vaishali071017/Funding-in-startups/blob/main/Funding_in_Starups.ipynb)
 
 **Assumptions:** Funding rounds from round_A to round_H are part of venture capital funding lifecycle
 **💡 Insights & Recommendations**

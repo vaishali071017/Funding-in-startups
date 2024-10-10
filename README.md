@@ -88,6 +88,7 @@ round_H - round H funding
 To view the code please click [here](https://github.com/vaishali071017/Funding-in-startups/blob/main/Funding_in_Starups.ipynb)
 
 **Assumptions:** Funding rounds from round_A to round_H are part of venture capital funding lifecycle
+
 **💡 Insights & Recommendations**
 
 **Insights**
@@ -175,9 +176,3 @@ Provide mentorship and resources along with funding to support startups' growth,
 Understand that the funding type indicates a startup’s growth plan and risk profile.
 
 Recognize that patience and persistence in the funding journey contribute significantly to startup success.
-
-
-
-
-
-
